@@ -5,12 +5,16 @@ Course: [Developing AI Applications with Python and Flask](https://www.coursera.
 ## Table of contents
 
 - [Overview](#overview)
+- [Demo](#demo)
 - [Project Features](#project-features)
 - [Getting Started](#getting-started)
 
 
 ## Overview
 This project demonstrates a CRUD (Create, Read, Update, Delete) application built with Flask, where CRUD functionalities are applied to a Financial Transaction Recording System. It provides hands-on experience in handling routes, requests, and endpoint interfaces for creating a fully functional CRUD-based web application.
+
+## Demo
+![Demo](./demo.gif)
 
 ## Project Features
 The application includes three main pages:
